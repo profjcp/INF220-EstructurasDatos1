@@ -56,8 +56,14 @@ python --version   # Verificar
 ### Ejecutar un ejemplo
 ```bash
 cd unidad3/ejemplos
-python 02_pila_dinamica.py
+python 02_pila_estatica_dinamica.py
 ```
+
+### Flujo de colaboración
+- Revisa la guía de contribución en [CONTRIBUTING.md](./CONTRIBUTING.md)
+- Crea una rama por cambio: `feature/nombre-corto`
+- Envía tus mejoras mediante **Pull Request** hacia `main`
+- Usa mensajes de commit claros y descriptivos
 
 ---
 
@@ -103,4 +109,4 @@ Proyectos Integradores
 
 ---
 
-> 💡 ¿Encontraste un error o tienes una mejora? Abre un **Issue** o envía un **Pull Request**.
+> 💡 ¿Encontraste un error o tienes una mejora? Sigue [CONTRIBUTING.md](./CONTRIBUTING.md), abre un **Issue** o envía un **Pull Request**.
