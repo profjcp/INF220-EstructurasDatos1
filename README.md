@@ -1,6 +1,6 @@
 # 📚 INF-220 | Estructuras de Datos I
 
-> **Prof. Juan Carlos Peña** · Universidad · Tercer Semestre  
+> **Prof. Juan Carlos Peinado · Universidad · Tercer Semestre  
 > Código en **Python** · Teoría + Ejemplos + Proyectos
 
 ---
